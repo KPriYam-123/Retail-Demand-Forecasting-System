@@ -1,0 +1,109 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+dataset_final.csv
+data/uploads/*
+!data/uploads/.gitkeep
+
+# Model files
+*.pkl
+*.pickle
+*.h5
+*.pt
+*.pth
+saved_models/*
+!saved_models/.gitkeep
+ml_pipeline/models/*
+!ml_pipeline/models/.gitkeep
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Next.js
+.next/
+out/
+build/
+.cache/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Testing
+.coverage
+.pytest_cache/
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+
+# OS
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+
+# Docker
+.docker/
+
+# Misc
+*.zip
+*.tar.gz
+*.rar
+temp/
+tmp/
