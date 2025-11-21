@@ -1,0 +1,6 @@
+{
+  "model_type": "lightgbm",
+  "n_products": 20,
+  "avg_val_mape": 6.990802701609935,
+  "avg_val_rmse": 7.552947781378876
+}
